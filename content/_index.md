@@ -1,7 +1,8 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
-seo_title: Hugo Liftoff | Hugo theme for creators
+title: Empower Your Data Journey with DataSarva
+subtitle: Your Hub for Data Science, Data Analysis, Data Engineering, Machine Learning, and AI Insights
+seo_title: DataSarva - Elevating Your Data Experience
+
 
 primary_cta_page: "about"
 secondary_cta_page: "projects"
